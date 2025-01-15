@@ -66,3 +66,8 @@ body {
 .menu-button:hover {
     background-color: #6200a8;
 }
+#myPhoto {
+    height: auto;
+    width: 200px;
+    margin-bottom: 20px;
+}
