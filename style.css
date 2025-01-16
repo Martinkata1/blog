@@ -172,7 +172,7 @@ body {
 
 @media (max-width: 768px) {
     .social-links {
-        gap: 10px;
+        gap: 20px;
         padding: 5px;
     }
     .social-btn {
@@ -185,7 +185,7 @@ body {
     .social-links {
         flex-direction: column;
         align-items: center;
-        gap: 10px;
+        gap: 20px;
     }
     .social-btn {
         width: 90%;
