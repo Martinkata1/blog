@@ -7,15 +7,37 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<button class="menu-button" onclick="toggleSidebar()">☰</button>
+<header>
+    <div id="welcome-banner" class="welcome-banner">
+        <h1>Здравейте сладури/ки!</h1>
+    </div>
+    <div class="wave-animation"></div>
 
+    <div id="intro" class="intro">
+        <p>Това е блогът ми, аз съм Мартин Костадинов - място за творчество, технологии и вдъхновение.</p>
+        <div class="button-container">
+            <a href="collection.html" class="btn">Колекция</a>
+            <a href="about.html" class="btn">За мен</a>
+            <a href="projects.html" class="btn">Проекти</a>
+        </div>
+        <div class="social-links">
+            <a href="#" class="social-btn">Facebook</a>
+            <a href="#" class="social-btn">Instagram</a>
+            <a href="#" class="social-btn">LinkedIn</a>
+        </div>
+    </div>
+</header>
+
+<button class="menu-button" onclick="toggleSidebar()">☰</button>
 <div id="sidebar" class="sidebar">
-    <button  onclick="toggleSidebar()">☰</button>
+    <button onclick="toggleSidebar()">☰</button>
     <a href="main.html"><button>Home</button></a>
     <a href="collection.html"><button>My Collection</button></a>
     <a href="about.html"><button>About Me</button></a>
     <a href="projects.html"><button>What I Did</button></a>
 </div>
+
 <script src="index.js"></script>
 </body>
 </html>
+
