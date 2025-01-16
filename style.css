@@ -13,9 +13,9 @@ body {
     width: 250px;
     background-color: #2c003e;
     display: flex;
-    flex-direction: column; /* Подрежда елементите вертикално */
+    flex-direction: column;
     align-items: center;
-    gap: 15px; /* Разстояние между бутоните */
+    gap: 15px;
     padding: 20px 0;
     box-shadow: 2px 0 5px rgba(0, 0, 0, 0.5);
     position: fixed;
@@ -156,11 +156,17 @@ body {
 .social-btn:hover {
     background-color: #4a0072;
 }
+
 @media (max-width: 480px) {
+    .sidebar{
+        gap: 10px;
+    }
     .sidebar button {
         width: 100%;
         font-size: 12px;
+        max-width: none;
         padding: 6px;
     }
 }
+
 
