@@ -164,12 +164,9 @@ body {
     font-size: 14px;
     transition: background-color 0.3s ease;
 }
-
 .social-btn:hover {
     background-color: #4a0072;
 }
-
-
 @media (max-width: 768px) {
     .social-links {
         gap: 20px;
