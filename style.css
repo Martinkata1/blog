@@ -156,4 +156,11 @@ body {
 .social-btn:hover {
     background-color: #4a0072;
 }
+@media (max-width: 480px) {
+    .sidebar button {
+        width: 100%;
+        font-size: 12px;
+        padding: 6px;
+    }
+}
 
