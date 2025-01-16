@@ -193,6 +193,13 @@ body {
         font-size: 12px;
         padding: 8px;
     }
+    .image{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: auto;
+        width: 200px;
+    }
 }
 .image {
     display: flex;
