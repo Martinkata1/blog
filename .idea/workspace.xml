@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="55bb64d2-263a-4c2f-96f5-f1be499c0b20" name="Changes" comment="Added some things." />
+    <list default="true" id="55bb64d2-263a-4c2f-96f5-f1be499c0b20" name="Changes" comment="Fixed some problems in css for devices like phones. I hope it is the last.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +23,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "history": [
@@ -48,10 +50,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "DefaultHtmlFileTemplate": "HTML File",
-    "JavaScript Debug.about.html.executor": "Run",
+    "JavaScript Debug.about.html.executor": "Debug",
+    "JavaScript Debug.collection.html.executor": "Run",
     "JavaScript Debug.demo.html.executor": "Run",
-    "JavaScript Debug.main.html.executor": "Run",
+    "JavaScript Debug.main.html.executor": "Debug",
     "JavaScript Debug.projects.html.executor": "Run",
+    "Node.js.index.js.executor": "Debug",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
@@ -80,7 +84,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736891923272</updated>
-      <workItem from="1736891924336" duration="11349000" />
+      <workItem from="1736891924336" duration="28706000" />
     </task>
     <task id="LOCAL-00001" summary="Added some things.">
       <option name="closed" value="true" />
@@ -114,14 +118,110 @@
       <option name="project" value="LOCAL" />
       <updated>1736963738454</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added some things.">
+      <option name="closed" value="true" />
+      <created>1736964264588</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736964264588</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added some things.">
+      <option name="closed" value="true" />
+      <created>1736964348723</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736964348723</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added some things and wave colorful.">
+      <option name="closed" value="true" />
+      <created>1737041562129</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737041562129</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Fixed some problems, like start with closed menu bar and better colors.">
+      <option name="closed" value="true" />
+      <created>1737044773334</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737044773334</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Fixed some problems in css for devices like phones.">
+      <option name="closed" value="true" />
+      <created>1737060781281</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737060781282</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Fixed some problems in css for devices like phones.">
+      <option name="closed" value="true" />
+      <created>1737062603902</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737062603902</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fixed some problems in css for devices like phones.">
+      <option name="closed" value="true" />
+      <created>1737062829562</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1737062829562</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Fixed some problems in css for devices like phones. I hope it is the last.">
+      <option name="closed" value="true" />
+      <created>1737065577526</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1737065577526</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Fixed some problems in css for devices like phones. I hope it is the last.">
+      <option name="closed" value="true" />
+      <created>1737065790551</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1737065790551</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Fixed some problems in css for devices like phones. I hope it is the last.">
+      <option name="closed" value="true" />
+      <created>1737065840690</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1737065840690</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added some things." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added some things." />
+    <MESSAGE value="Merge remote-tracking branch 'origin/main'" />
+    <MESSAGE value="Added some things and wave colorful." />
+    <MESSAGE value="Fixed some problems, like start with closed menu bar and better colors." />
+    <MESSAGE value="Fixed some problems in css for devices like phones." />
+    <MESSAGE value="Fixed some problems in css for devices like phones. I hope it is the last." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed some problems in css for devices like phones. I hope it is the last." />
   </component>
 </project>
