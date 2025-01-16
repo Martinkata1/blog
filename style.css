@@ -126,7 +126,6 @@ body {
     font-size: 1.2rem;
 }
 .button-container {
-    margin-top: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -147,7 +146,6 @@ body {
     background-color: #6200a8;
 }
 .social-links {
-    margin-top: 20px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
