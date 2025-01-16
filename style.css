@@ -127,6 +127,11 @@ body {
 }
 .button-container {
     margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+
 }
 .btn {
     text-decoration: none;
@@ -143,6 +148,10 @@ body {
 }
 .social-links {
     margin-top: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
 }
 .social-btn {
     text-decoration: none;
