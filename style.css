@@ -170,16 +170,7 @@ body {
 }
 
 
-@media (max-width: 768px) {
-    .social-links {
-        gap: 20px;
-        padding: 5px;
-    }
-    .social-btn {
-        font-size: 12px;
-        padding: 8px 12px;
-    }
-}
+
 
 @media (max-width: 480px) {
     .social-links {
