@@ -224,27 +224,27 @@ h2 {
     text-align: center;
     margin-top: 40px;
 }
-#shittet_pants{
+.shittet_pants{
     height: auto;
     width: 200px;
     margin-bottom: 20px;
 }
-#diecasts_cars{
+.diecasts_cars{
     height: auto;
     width: 200px;
     margin-bottom: 20px;
 }
-#lego{
+.lego{
     height: auto;
     width: 200px;
     margin-bottom: 20px;
 }
-#custom_diecast_cars{
+.custom_diecast_cars{
     height: auto;
     width: 200px;
     margin-bottom: 20px;
 }
-#programming{
+.programming{
     height: auto;
     width: 200px;
     margin-bottom: 20px;
