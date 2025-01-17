@@ -6,10 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="55bb64d2-263a-4c2f-96f5-f1be499c0b20" name="Changes" comment="Upgraded collection.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/collection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/demo.html" beforeDir="false" afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +85,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1736891923272</updated>
-      <workItem from="1736891924336" duration="45418000" />
+      <workItem from="1736891924336" duration="43654000" />
     </task>
     <task id="LOCAL-00001" summary="Added some things.">
       <option name="closed" value="true" />
@@ -369,31 +367,7 @@
       <option name="project" value="LOCAL" />
       <updated>1737103863536</updated>
     </task>
-    <task id="LOCAL-00036" summary="Upgraded collection.html">
-      <option name="closed" value="true" />
-      <created>1737105795128</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1737105795128</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Upgraded collection.html">
-      <option name="closed" value="true" />
-      <created>1737105815953</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1737105815954</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Upgraded collection.html">
-      <option name="closed" value="true" />
-      <created>1737105883687</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1737105883687</updated>
-    </task>
-    <option name="localTasksCounter" value="39" />
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
