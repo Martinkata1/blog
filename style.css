@@ -261,13 +261,13 @@ h2 {
     line-height: 1.5;
 }
 .header1{
-        display: flex; /* Активиране на Flexbox */
-        flex-direction: column; /* Вертикално подреждане на елементите вътре */
-        justify-content: center; /* Центриране по вертикал */
-        align-items: center; /* Центриране по хоризонтал */
-        text-align: center; /* Центриране на текст */
-        height: 100vh; /* Прави височината на header равна на цял екран */
-        padding: 20px; /* Отстояние вътре в хедъра */
-        box-sizing: border-box; /* Включва padding в размерите на header */
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        height: 100vh;
+        padding: 20px;
+        box-sizing: border-box;
 }
 
