@@ -225,27 +225,27 @@ h2 {
     margin-top: 40px;
 }
 .shittet_pants{
-    height: auto;
-    width: 200px;
+    height: auto !important;
+    width: 200px !important;
     margin-bottom: 20px;
 }
 .diecasts_cars{
-    height: auto;
-    width: 200px;
+    height: auto !important;
+    width: 200px !important;
     margin-bottom: 20px;
 }
 .lego{
-    height: auto;
-    width: 200px;
+    height: auto !important;
+    width: 200px !important;
     margin-bottom: 20px;
 }
 .custom_diecast_cars{
-    height: auto;
-    width: 200px;
+    height: auto !important;
+    width: 200px !important;
     margin-bottom: 20px;
 }
 .programming{
-    height: auto;
-    width: 200px;
+    height: auto !important;
+    width: 200px !important;
     margin-bottom: 20px;
 }
