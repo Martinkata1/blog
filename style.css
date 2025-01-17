@@ -168,10 +168,6 @@ body {
 .social-btn:hover {
     background-color: #4a0072;
 }
-
-
-
-
 @media (max-width: 480px) {
     .social-links {
         flex-direction: column;
@@ -238,5 +234,10 @@ h2 {
 .programming{
     height: auto !important;
     width: 200px !important;
+    margin-bottom: 20px;
+}
+#myPhoto_life{
+    height: auto;
+    width: 200px;
     margin-bottom: 20px;
 }
