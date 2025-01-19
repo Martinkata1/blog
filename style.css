@@ -175,10 +175,10 @@ body {
     }
 
 
-    .button-container {
+    /*.button-container {
         flex-direction: column;
         gap: 10px;
-    }
+    }*/
 
     .btn {
         width: 100%;
