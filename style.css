@@ -169,18 +169,18 @@ body {
     background-color: #4a0072;
 }
 @media (max-width: 480px) {
-    /*body {
+    body {
         padding: 10px;
         font-size: 14px;
-    }*/
+    }
 
 
-    /*.button-container {
+    .button-container {
         flex-direction: column;
         gap: 10px;
-    }*/
+    }
 
-    /*.btn {
+    .btn {
         width: 100%;
         font-size: 14px;
         padding: 8px;
@@ -207,7 +207,7 @@ body {
     .sidebar {
         width: 100%;
         padding: 10px;
-    }*/
+    }
     .sidebar.hidden {
         transform: translateX(-100%);
     }
