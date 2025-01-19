@@ -169,10 +169,10 @@ body {
     background-color: #4a0072;
 }
 @media (max-width: 480px) {
-    body {
+    /*body {
         padding: 10px;
         font-size: 14px;
-    }
+    }*/
 
 
     /*.button-container {
