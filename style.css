@@ -169,7 +169,61 @@ body {
     background-color: #4a0072;
 }
 @media (max-width: 480px) {
+    body {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    .intro {
+        text-align: left;
+        font-size: 1rem;
+        padding: 10px;
+    }
+
+    .button-container {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .btn {
+        width: 100%;
+        font-size: 14px;
+        padding: 8px;
+    }
+
+    .image {
+        height: auto;
+        width: 100%;
+        padding: 10px 0;
+    }
+
+    #myPhoto_life {
+        width: 100%;
+        max-width: 300px;
+        margin: 0 auto;
+    }
+
+    .life-text {
+        text-align: center;
+        font-size: 1.2rem;
+        padding: 10px;
+    }
+
+    .sidebar {
+        width: 100%;
+        padding: 10px;
+    }
+
     .social-links {
+        flex-direction: column;
+        gap: 10px;
+    }
+
+    .social-btn {
+        width: 100%;
+        padding: 8px;
+    }
+    /*.social-links {
         flex-direction: column;
         align-items: center;
         gap: 20px;
@@ -179,9 +233,9 @@ body {
         text-align: center;
         font-size: 12px;
         padding: 8px;
-    }
-
+    }*/
 }
+
 .image {
     display: flex;
     justify-content: center;
