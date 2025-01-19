@@ -174,7 +174,29 @@ body {
         font-size: 14px;
     }
 
+    .content {
+        text-align: center;
+        margin: 0 auto;
+        padding: 0 10px;
+    }
 
+    .content h2 {
+        font-size: 1.5em;
+    }
+
+    .content p {
+        font-size: 1em;
+        line-height: 1.6;
+    }
+
+    .image {
+        text-align: center;
+    }
+
+    .image img {
+        max-width: 100%;
+        height: auto;
+    }
     .button-container {
         flex-direction: column;
         gap: 10px;
